@@ -32,5 +32,8 @@
     "require-dev": {
         "phpunit/phpunit": "^4.8",
         "behat/behat": "^3.0"
+    },
+    "replace": {
+        "aws/aws-sdk-php-v3-bridge": "self.version"
     }
 }
