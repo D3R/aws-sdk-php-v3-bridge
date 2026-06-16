@@ -5,6 +5,7 @@
 [![Apache 2 License](https://img.shields.io/packagist/l/aws/aws-sdk-php-v3-bridge.svg?style=flat)](http://aws.amazon.com/apache-2-0/)
 [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/aws/aws-sdk-php?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
+
 This package provides support for using Amazon SimpleDB with version 3 of the
 AWS SDK for PHP. It depends on the AWS SDK for PHP v3 and allows users to
 construct SimpleDb clients as they would any other v3 service:
